@@ -1,4 +1,4 @@
-  # Library Management System
+# Library Management System
 
 A console-based Library Management System written in Java. It lets a librarian add, search, issue, return, and delete books through a simple menu-driven interface.
 
@@ -45,7 +45,7 @@ Built to practice core Java and object-oriented programming concepts: encapsulat
 
 ## Sample Output
 
-
+```
 ========================================
       LIBRARY MANAGEMENT SYSTEM
 ========================================
@@ -66,16 +66,16 @@ Book ID    Title                          Author                    Status
 101        Java Programming               James Gosling             Available
 102        Python Basics                  Guido van Rossum          Available
 103        Database Systems               Raghu Ramakrishnan        Available
-
+```
 
 ## Project Structure
 
-
+```
 library-management-system/
 ├── LibraryManagementSystem.java   # Main class with menu and operations, plus the Book class
 ├── README.md
 └── .gitignore
-
+```
 
 ## Concepts Used
 
