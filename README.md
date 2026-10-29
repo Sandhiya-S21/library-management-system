@@ -31,7 +31,7 @@ Built to practice core Java and object-oriented programming concepts: encapsulat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/library-management-system.git
+   git clone https://github.com/Sandhiya-S21/library-management-system.git
    cd library-management-system
    ```
 2. Compile:
